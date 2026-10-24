@@ -1,128 +1,99 @@
 {
   "demo": true,
-  "demoContactWhatsapp": "917990702137",
-  "businessName": "Nene Clinic",
-  "tagline": "ENT · Gynecology · Hospital",
+  "demoContactWhatsapp": "919999999999",
+  "businessName": "JALARAM DENTAL CLINIC",
+  "tagline": "Compassionate dental care for your entire family.",
   "meta": {
-    "title": "Nene Clinic Vadodara – ENT Specialist & Gynecologist",
-    "description": "Nene Clinic in Gotri, Vadodara offers specialist ENT surgery and gynecology services by Dr. Milind Nene and Dr. Suchitra Nene. Call 098240 94947."
+    "title": "JALARAM DENTAL CLINIC – Compassionate dental care for your entire family.",
+    "description": "Providing comprehensive oral health services with a focus on patient comfort, hygiene, and genuine care for individuals and families."
   },
   "colors": {
     "primary": "#27619b",
     "secondary": "#e9edf2",
     "primaryForeground": "#ffffff",
-    "secondaryForeground": "#1e293b"
+    "secondaryForeground": "#0f172a"
   },
   "contact": {
-    "phone": "098240 94947",
-    "whatsapp": "09824094947",
-    "address": "Sarita Sangam Society, 32, Gotri Rd, Gotri, Vadodara, Gujarat 390021",
-    "mapsUrl": "https://maps.google.com/?q=Nene+Clinic+Gotri+Vadodara",
-    "hours": [
-      "Dr. Suchitra Nene: 9–11am / 6–8pm",
-      "Dr. Milind Nene: 11am–1pm / 5–7pm"
-    ]
+    "phone": "08320071197",
+    "whatsapp": "08320071197",
+    "address": "FF6 sarnam complex, Waghodia Rd, opp. savita hospital, Vadodara, Gujarat 390019",
+    "mapsUrl": "https://maps.app.goo.gl/5kQ8BBNWY4RtzABX8"
   },
   "hero": {
-    "title": "Specialist ENT & Maternity Care in Vadodara",
-    "description": "Trusted ENT surgery and gynecology services by experienced specialists. Comprehensive hospital care for the whole family.",
-    "rating": 3.4,
-    "reviewCount": "161 Reviews"
+    "title": "Expert Dental Care You Can Trust",
+    "description": "Providing comprehensive oral health services with a focus on patient comfort, hygiene, and genuine care for individuals and families.",
+    "rating": 5,
+    "reviewCount": "Highly Recommended"
   },
   "about": {
-    "title": "Our Specialists",
+    "title": "Our Specialist",
     "items": [
       {
-        "name": "Dr. Milind Nene",
-        "role": "ENT Specialist / Surgeon",
-        "desc": "Experienced ENT surgeon specializing in sinus surgery, ear drum repair, and pediatric ENT care. Known for handling children patiently during procedures.",
+        "name": "Dr. Vruttika Patel",
+        "role": "Lead Dentist",
+        "desc": "A dedicated professional known for providing gentle, painless treatments and honest dental advice for patients of all ages.",
         "icon": "Stethoscope"
-      },
-      {
-        "name": "Dr. Suchitra Nene",
-        "role": "Gynecologist / Maternity Care",
-        "desc": "Experienced gynecologist providing comprehensive maternity care, pregnancy consultation, and women's health treatment.",
-        "icon": "Baby"
       }
     ]
   },
   "strengths": {
-    "title": "Why Patients Trust Us",
+    "title": "Why Choose Us",
     "items": [
       {
-        "icon": "🩺",
-        "title": "Experienced Doctors",
-        "desc": "Long experience and deep medical knowledge in ENT and gynecology."
+        "icon": "Smile",
+        "title": "Patient-Centered Care",
+        "desc": "We prioritize your comfort and clear communication throughout every treatment."
       },
       {
-        "icon": "🔬",
-        "title": "Surgical Expertise",
-        "desc": "Successful ENT surgeries like sinus surgery and ear drum repair."
+        "icon": "ShieldCheck",
+        "title": "Hygienic Environment",
+        "desc": "Our clinic maintains high standards of cleanliness for your safety."
       },
       {
-        "icon": "🏥",
-        "title": "Clean Facility",
-        "desc": "Clinic is neat, well-maintained, and hygienic."
-      },
-      {
-        "icon": "👶",
-        "title": "Child-Friendly Care",
-        "desc": "Doctor handles children patiently during ENT procedures."
+        "icon": "BadgeDollarSign",
+        "title": "Affordable Quality",
+        "desc": "Professional dental solutions provided at accessible price points."
       }
     ]
   },
   "services": {
-    "title": "Our Services",
+    "title": "Our Dental Services",
     "items": [
       {
         "icon": "Stethoscope",
-        "title": "ENT Treatments",
+        "title": "General & Preventive Dentistry",
         "items": [
-          "Ear infections & ear pain",
-          "Ear wax removal",
-          "Sinus treatment",
-          "Endoscopic sinus surgery",
-          "Nose surgery (DNS)",
-          "Hearing related issues"
+          "General consultations",
+          "Teeth cleaning and scaling",
+          "Oral hygiene guidance"
         ]
       },
       {
-        "icon": "Baby",
-        "title": "Gynecology & Maternity",
+        "icon": "Activity",
+        "title": "Restorative & Surgical Care",
         "items": [
-          "Pregnancy consultation",
-          "Delivery care",
-          "Women's health treatment",
-          "Maternity support"
-        ]
-      },
-      {
-        "icon": "Hospital",
-        "title": "General Hospital",
-        "items": [
-          "Diagnostic consultation",
-          "Minor surgeries",
-          "Follow-up treatments"
+          "Root canal treatment",
+          "Cavity treatment",
+          "Dental implants",
+          "Wisdom tooth removal"
         ]
       }
     ]
   },
   "testimonials": {
-    "title": "Patient Reviews",
+    "title": "What Our Patients Say",
     "items": [
-      "Dr. Milind Nene is excellent. My son was very scared of doctors but he handled him very patiently.",
-      "I had sinus surgery here and the treatment and facilities were very good.",
-      "Dr. Suchitra Nene is very experienced and approachable for maternity care."
+      "The doctor is incredibly friendly, polite, and caring. My treatment was painless and comfortable.",
+      "A very clean and hygienic clinic with supportive staff. Highly recommended for family dental care.",
+      "I appreciate the genuine advice and affordable treatment options provided here."
     ],
     "badges": [
-      "⭐ 3.4 Google Rating",
-      "161+ Reviews",
-      "Specialist Doctors",
-      "Established Hospital"
+      "Trusted Family Care",
+      "Painless Experience"
     ]
   },
   "footer": {
-    "subtitle": "Dr. Milind Nene · ENT Specialist | Dr. Suchitra Nene · Gynecologist · Vadodara",
+    "subtitle": "Your smile is our priority.",
     "credit": "Website designed & developed by Aman Web Studio"
   }
 }
